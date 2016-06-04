@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+}
+div {
+  background-color: green;
+}
+h1 {
+  text-align: center;
+}
+
+.linkList li {
+  float: right;
+  display: inline-block;
+  margin: 4px;
+
+}
+
+.songList li {
+  list-style: none;
+
+}
+
+
