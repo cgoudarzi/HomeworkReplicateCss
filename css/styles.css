@@ -1,15 +1,26 @@
 body {
   background-color: white;
 }
-div {
-  background-color: green;
+
+footer {
+  text-align: center;
+  background-color: lavender;
+  height: 100px;
+  width: 100%;
 }
 h1 {
   text-align: center;
 }
 
+p {
+  float; left;
+  width: 500px;
+  background-color: 
+}
+
 .linkList li {
   float: right;
+  background-color: #8fbc8f;
   display: inline-block;
   margin: 4px;
 
@@ -18,6 +29,14 @@ h1 {
 .songList li {
   list-style: none;
 
+}
+
+#Deadhead {
+  background-image: url(http://static.stereogum.com/uploads/2014/01/grateful-dead.jpg);
+}
+
+#Top {
+  background-color: #8fbc8f;
 }
 
 
