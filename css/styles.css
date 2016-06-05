@@ -15,7 +15,7 @@ h1 {
 p {
   float; left;
   width: 500px;
-  background-color: 
+  background-color: #b0c4de;
 }
 
 .linkList li {
@@ -26,17 +26,43 @@ p {
 
 }
 
-.songList li {
+.songList li{
   list-style: none;
 
 }
 
-#Deadhead {
-  background-image: url(http://static.stereogum.com/uploads/2014/01/grateful-dead.jpg);
+#deadHead {
+  background-image: url('https://i.ytimg.com/vi/N7lMxNfb7rw/hqdefault.jpg');
+  height: 125px;
+  width: 150px;
+  display: block;
+  border-radius: 90%;
+  background-size: cover;
+  padding-left: 10px;
 }
 
 #Top {
   background-color: #8fbc8f;
 }
+#middleRight {
+  background-color: #f5fffa;
+}
+
+#bandPhoto {
+  background-image: url('http://assets.rollingstone.com/assets/2014/article/grateful-deads-1972-german-concert-to-hit-movie-theaters-this-summer-20140609/15669/_original/1035x825-20140609-gratefuldead-1800-1402334219.jpg');
+  height: 100px;
+  width: 100px;
+  border-radius: 15%;
+  background-size: cover;
+  float: left;  
+}
+
+
+
+
+
+
+
+
 
 
